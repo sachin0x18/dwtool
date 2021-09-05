@@ -1,0 +1,17 @@
+{
+    "BUTTONS": {
+        "LEFT_BUTTON": "CLICK",
+        "RIGHT_BUTTON": "MENU",
+        "SCROLL_UP": "SCROLL_UP",
+        "SCROLL_DOWN": "SCROLL_DOWN",
+        "SCROLL_BUTTON": "WHEEL_CLICK",
+        "DPI_BUTTON": "DPI_CYCLE",
+        "FIRE_BUTTON": "DOUBLE_CLICK",
+        "SIDE_FORWARD_BUTTON": "SHORTCUT_CMD+C",
+        "SIDE_BACKWARD_BUTTON": "SHORTCUT_CMD+V"
+    },
+    "LED": {
+        "PATTERN": "BREATHING",
+        "COLOR": "123321"
+    }
+}
